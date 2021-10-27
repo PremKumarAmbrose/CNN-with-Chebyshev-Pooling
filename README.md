@@ -1,11 +1,8 @@
-# CNN-with-Chebyshev-Pooling@INPROCEEDINGS{9544405,
+# CNN-with-Chebyshev-Pooling
+
+A CNN  based image classifier in which an alternative layer for the Pooling is used, which is called Chebyshev Pooling layer.
 
 
-  author={Chan, Ka-Hou and Pau, Giovanni and Im, Sio-Kei},
-  booktitle={2021 IEEE 4th International Conference on Computer and Communication Engineering Technology (CCET)}, 
-  title={Chebyshev Pooling: An Alternative Layer for the Pooling of CNNs-Based Classifier}, 
-  year={2021},
-  volume={},
-  number={},
-  pages={106-110},
-  doi={10.1109/CCET52649.2021.9544405}}
+**References**
+K. -H. Chan, G. Pau and S. -K. Im, "Chebyshev Pooling: An Alternative Layer for the Pooling of CNNs-Based Classifier," 2021 IEEE 4th International Conference on Computer and Communication Engineering Technology (CCET), 2021, pp. 106-110, doi: 10.1109/CCET52649.2021.9544405.
+https://ieeexplore.ieee.org/document/9544405
